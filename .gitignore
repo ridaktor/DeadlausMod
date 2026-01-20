@@ -1,4 +1,5 @@
 .DS_Store
 **/.DS_Store
-.DS_Store
-**/.DS_Store
+
+# optional: keep repo clean
+docs/images_raw/
