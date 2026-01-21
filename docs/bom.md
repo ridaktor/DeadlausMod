@@ -18,26 +18,26 @@
 ## Fans
 - Blower fan **5015 24V** (stock fan not compatible)
 - Extruder / hotend fan **3010 24V**
-- Adapter plate fan **3010 5V** (note the voltage)
+- Adapter plate fan **3010 5V** *(note voltage)*
 
 ## Electrical / contacts
 - Pogo Pin Connector Pair **SHIDWJ 2.54 mm**
 - Heatshrink tubing
 
 ## Klicky standard hardware
-- Klicky probe kit (**D2HW recommended**)
+- Klicky probe kit *(D2HW recommended)*
 
-## Hardware
-- **E3D V6 Volcano CHT hardened nozzle** (example)
-- Glass/mirror build plate **250×250 mm**
+## Other hardware (examples)
+- E3D V6 Volcano **CHT hardened nozzle** *(example)*
+- Glass/mirror **250×250 mm**
 - Glue stick **PVP**
-- Heat insulation cotton (**high-temp rated / fire-retardant**)
-- Acoustic foam (**fire-retardant / high-temp rated**)
+- Heat insulation cotton *(high-temp rated / fire-retardant)*
+- Acoustic foam *(fire-retardant / high-temp rated)*
 - Metal binder clips
 
 ## Tools
 - Soldering iron + solder + flux (pogo pins)
-- Heat-set insert tool (or soldering iron tip for inserts)
-- JST-XH 2.54 crimp tool + connectors (example)
+- Heat-set insert tool *(or soldering iron tip for inserts)*
+- JST-XH 2.54 crimp tool + connectors *(example)*
 - Standard hex keys
-- Precision screwdriver set (**PH1** for Klicky screws, **T6H** for M2.5 flat screws; Torx gives better grip than hex)
+- Precision screwdriver set *(PH1 for Klicky screws, T6H for M2.5 flat screws; Torx gives better grip than hex)*
