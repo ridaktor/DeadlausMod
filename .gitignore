@@ -15,3 +15,7 @@ pics/
 *.3mf
 *.HEIC
 *.heic
+
+# docs drafts
+*.docx
+~.docx
