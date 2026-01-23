@@ -45,6 +45,7 @@ See **GitHub Releases** for ready-to-download ZIP assets (models + docs/config).
 
 ## Disclaimer / use at your own risk
 This is not a beginner upgrade. You must be comfortable with disassembly, wiring, tuning, and Klipper configuration. Everything is provided as-is. You accept full responsibility for any damage, malfunction, injury, or loss.
+- Fully reversible: can be reverted to stock (no permanent mods)
 
 ## Links
 - Releases: https://github.com/ridaktor/DeadlausMod/releases
