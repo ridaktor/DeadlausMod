@@ -1,6 +1,17 @@
 .DS_Store
 **/.DS_Store
-
-# optional: keep repo clean
-docs/images_raw/
 dist/
+
+docs/
+models/
+STL/
+STP/
+pics/
+*.stl
+*.STL
+*.stp
+*.STEP
+*.step
+*.3mf
+*.HEIC
+*.heic
